@@ -1,0 +1,14 @@
+This code was written by using C# language and compiled by Microsoft Visual Studio 2015.
+This zip file contains:
+	- RDarby_TermPaper_PEGN513.docx - Written report for the project
+	- RDarby_TermPresentation_PEGN513 - Presentation for the project
+	- Term_ResSim - Contains all needed files for compiling and editing the program.
+
+To execute the program you must run the file Term_ResSim_Simulator.exe. 
+Output files are directed to the Z:\ drive. Which may cause errors on non-campus computers.
+
+To edit the program you must open the Term_ResSim folder and then open Term_ResSim.sln
+
+To compile the program use Visual Studio to compile and run the program.
+To run a simulation add a well from the well tab, and then on the simulate tab, click simulate.
+Results will be produced within the program. Data can then be extracted.
