@@ -1,3 +1,5 @@
+Hydrocarbon Reservoir Simulator
+
 This code was written by using C# language and compiled by Microsoft Visual Studio 2015.
 
 To execute the program you must run the file Term_ResSim_Simulator.exe. 
@@ -8,3 +10,5 @@ To edit the program you must open the Term_ResSim folder and then open Term_ResS
 To compile the program use Visual Studio to compile and run the program.
 To run a simulation add a well from the well tab, and then on the simulate tab, click simulate.
 Results will be produced within the program. Data can then be extracted.
+
+The UI and options portion of this project is work-in-progress.
